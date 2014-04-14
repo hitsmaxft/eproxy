@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/react": "0.4.*"
+    },
+    "autoload": {
+        "classmap": ["app/"]
+    }
+}
